@@ -78,7 +78,7 @@ p {
   margin: 40px 0;
 }
 
-.button {
+button {
   color: white;
   text-transform: uppercase;
   font-family: "Open Sans", sans-serif;
